@@ -1,8 +1,9 @@
 
 # Olá! Eu sou o Lucas Rawlison
+---
 
-
-## Contatos:
+## Contato
+----
 
 <div>
 
@@ -14,9 +15,13 @@
 </div>
 
 ## Obs.
-
+---
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrawlison&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrawlison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+## Habilidades
+
+<div style="height:20px; display:flex; backgroud-color:blue;"> CSS </div>
