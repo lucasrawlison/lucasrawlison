@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/lucas-rawlison-66605716b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
-## Obs
+## Github Stats
 
 <div>
 <a href="https://github.com/lucasrawlison">
